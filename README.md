@@ -5,8 +5,10 @@
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/arnon-guttel/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="35"/>
   </a>&nbsp;&nbsp;
+  <a href="https://guttelarnon.itch.io/"><img src="https://leafo.net/igjc-presentation/itchio-logo.png" width="130" height="35"/></a>
+</p>
   
 </p>
 

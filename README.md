@@ -9,15 +9,8 @@
   </a>&nbsp;&nbsp;
   <a href="https://guttelarnon.itch.io/"><img src="https://leafo.net/igjc-presentation/itchio-logo.png" width="130" height="35"/></a>
 </p>
-  
-</p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ArnonGuttel&show_icons=true&count_private=true&theme=dracula" width="355"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnonGuttel&layout=compact&title_color=F56B92&text_color=e7e7e7&icon_color=007bff&bg_color=282A36" width="350"></a>
+  <a href="#"><img height = 200 src="https://github-readme-stats.vercel.app/api?username=ArnonGuttel&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=dracula"></a>
+  <a href="#"><img height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnonGuttel&layout=compact&langs_count=8&theme=dracula"></a>
 </p>
-
-<!---
-ArnonGuttel/ArnonGuttel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

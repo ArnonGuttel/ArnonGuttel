@@ -12,5 +12,5 @@
 
 <p align='center'>
   <a href="#"><img height = 200 src="https://github-readme-stats.vercel.app/api?username=ArnonGuttel&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=dracula"></a>
-  <a href="#"><img height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnonGuttel&layout=compact&langs_count=8&theme=dracula"></a>
+  <a href="#"><img height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnonGuttel&layout=compact&langs_count=8&size_weight=0&count_weight=1&theme=dracula"></a>
 </p>
